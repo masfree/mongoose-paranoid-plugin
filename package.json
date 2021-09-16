@@ -4,7 +4,7 @@
   "description": "Mongoose soft deletion plugin ",
   "main": "index.js",
   "peerDependencies": {
-    "mongoose": "4.x"
+    "mongoose": "5.x"
   },
   "devDependencies": {},
   "scripts": {
